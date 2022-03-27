@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2748786-8343-aac4-30af-8f76d6b52b19
 resourcetype: Document
 title: 'Problem Set 1: Geodesics and Locally Geodesic (Riermnn) Coordinates'
 uid: a59bbb24-b455-435f-faf7-46df76d2d73c
