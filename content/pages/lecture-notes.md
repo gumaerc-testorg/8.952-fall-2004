@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lecture notes prepared in LaTex by Alan Dunn, a
+  former MIT student.  He used Prof. Wilczek's handwritten notes to produce them.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -24,7 +26,7 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Part 1: General Relativity ([PDF]({{< baseurl >}}/resources/89521))**
+**Part 1: General Relativity ({{% resource_link 1723f9a7-383f-25b9-1c34-216de12ab80e "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +104,7 @@ Newtonian Limit
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Part 2: Cosmological Models with Idealized Matter ([PDF]({{< baseurl >}}/resources/89522))**
+**Part 2: Cosmological Models with Idealized Matter ({{% resource_link 9f5d52a4-2d51-c9c6-0237-3824eb222300 "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
