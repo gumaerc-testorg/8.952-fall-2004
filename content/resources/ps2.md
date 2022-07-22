@@ -7,6 +7,7 @@ file: /courses/8-952-particle-physics-of-the-early-universe-fall-2004/c34b37df56
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Problem Set 2
 uid: c34b37df-5616-f483-51c3-735f7a8e2f2c
 ---
 Problem set on the short-wavelength limit of the scalar wave equation in curved spacetime ("geometric optics") and the curvature and dynamical equations for general FRW universe.
-
