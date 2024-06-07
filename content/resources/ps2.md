@@ -4,6 +4,7 @@ description: Problem set on the short-wavelength limit of the scalar wave equati
   in curved spacetime ("geometric optics") and the curvature and dynamical equations
   for general FRW universe.
 file: /courses/8-952-particle-physics-of-the-early-universe-fall-2004/c34b37df5616f48351c3735f7a8e2f2c_ps2.pdf
+file_size: 19354
 file_type: application/pdf
 learning_resource_types:
 - Assignments
