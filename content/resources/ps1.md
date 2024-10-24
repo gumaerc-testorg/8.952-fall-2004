@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on geodesics and locally geodesic (Riermnn) coordinates.
-file: /courses/8-952-particle-physics-of-the-early-universe-fall-2004/a59bbb24b455435ffaf746df76d2d73c_ps1.pdf
+file: /ol-ocw-studio-app/courses/8-952-particle-physics-of-the-early-universe-fall-2004/a59bbb24b455435ffaf746df76d2d73c_ps1.pdf
 file_size: 58305
 file_type: application/pdf
 learning_resource_types:
